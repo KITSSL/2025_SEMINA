@@ -9,3 +9,4 @@
 | 02 | 2025-04-14 | cookie | 박세원 | [link](./04월/250414_Cookie.pdf) |
 | 03 | 2025-06-16 | Git guide | 박세원 | [link](./06월/4_250616_Git.pptx) |
 | 04 | 2025-07-09 | 토큰화 BPE | 김종현 | [link](./07월/BPE알고리즘.pptx)
+| 05 | 2025-07-09 | Hook overwrite | 박세원 | [link](./07월/5_250709_Hook_Overwrite.pptx)
