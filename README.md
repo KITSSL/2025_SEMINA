@@ -11,4 +11,4 @@
 | 04 | 2025-07-09 | 토큰화 BPE | 김종현 | [link](./07월/BPE알고리즘.pptx)
 | 05 | 2025-07-09 | Hook overwrite | 박세원 | [link](./07월/5_250709_Hook_Overwrite.pptx)
 | 06 | 2025-07-16 | 트랜잭션 | 박연종 | [link](./07월/트랜잭션.pdf)
-| 07 | 2025-07-16 | Blockchain&Smart Contract | 강혜인 | [link]([./07월/트랜잭션.pdf](https://github.com/KITSSL/2025_SEMINA/blob/main/07%EC%9B%94/20250716_SSL%20%EC%84%B8%EB%AF%B8%EB%82%98.pptx))
+| 07 | 2025-07-16 | Blockchain&Smart Contract | 강혜인 | [link](./07월/20250716_SSL%20세미나.pptx)
