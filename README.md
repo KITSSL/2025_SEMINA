@@ -20,7 +20,7 @@
 | 13 | 2025-08-20 | InnoDB 잠금 전략 | 박연종 | [link](./08월/InnoDB%20잠금%20전략.pdf) |
 | 14 | 2025-08-20 | 100만원으로 gpt 평생 쓰기 | 김종현 | [link](./08월/단돈%20100만원으로%20GPT%20평생%20쓰기.pptx) |
 | 15 | 2025-08-27 | Out of Bounds | 박세원 | [link](./08월/250827_OOB.pptx) |
-| 16 | 2025-08-27 |  | 강혜인 | [link]() |
+| 16 | 2025-08-27 | Ethereum SC | 강혜인 | [link](https://github.com/KITSSL/2025_SEMINA/blob/main/08%EC%9B%94/20250827_Ethereum%20SC.pptx) |
 | 17 | 2025-09-03 | 애플리케이션에서 잠금 사용해 보기 | 박연종 | [link](./09월/애플리케이션에서%20잠금%20사용해%20보기.pdf) |
 | 18 | 2025-09-03 | LLM의 최적화 | 김종현 | [link](./09월/LLM의%20최적화.pptx) |
 | 19 | 2025-09-10 | Command Injection && __environ | 박세원 | [link](./09월/9_Environ%26Cmd_Injection.pptx) |
