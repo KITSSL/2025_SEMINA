@@ -28,3 +28,4 @@
 | 21 | 2025-09-17 | BPFDoor | 강혜인 | [link](https://github.com/KITSSL/2025_SEMINA/blob/main/09%EC%9B%94/20250917_BPFDoor.pptx) |
 | 22 | 2025-09-24 | 주요 키 채번 전략 | 박연종 | [link](./09월/기본%20키%20생성%20전략.pdf) |
 | 23 | 2025-09-24 | 부족한 성능의 LLM을 보완하는 법 | 김종현 | [link](./09월/부족한%20성능의%20LLM을%20보완하는%20법.pptx) |
+| 24 | 2025-10-01 | Memory Allcator in Linux | 박세원 | [link](./10월/10_Memory_Allocator_in_Linux.pptx) |
